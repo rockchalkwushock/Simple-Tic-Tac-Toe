@@ -1,0 +1,16 @@
+html
+{
+  text-align: center;
+};
+
+#wrapper
+{
+  margin-left: auto;
+  margin-right: auto;
+};
+
+.square
+{
+  height: 5em;
+  width: 5em;
+};
